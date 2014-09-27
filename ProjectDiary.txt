@@ -1,0 +1,7 @@
+starting on September 27th 11:44
+
+Was starting with the interface calculator:
+		result = calculator.sum(new Currency(5,"$"), new Currency(10, "$"));
+		assertEquals(new Currency(10, "$").toString(), result.toString());
+
+Moving toward a interface Dollars, francs class.
